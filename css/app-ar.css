@@ -135,6 +135,7 @@ li.dropdown {
     border-collapse: collapse;
     width: 70%;
     text-align: center;
+
 }
 
 #customers td, #customers th {
@@ -152,4 +153,5 @@ li.dropdown {
     text-align: center;
     background-color: #4CAF50;
     color: white;
+    
 }
